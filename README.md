@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm PinHsuanHuang</h1>
 <h3 align="center">A junior developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinxuanhuang&label=Profile%20views&color=0e75b6&style=flat" alt="pinxuanhuang" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinxuanhuang" alt="pinxuanhuang" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [my repo](https://github.com/PinxuanHuang?tab=repositories)
 
 - 📫 How to reach me **gary84811@gmail.com**
