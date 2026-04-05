@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PinHsuanHuang</h1>
+<h1 align="center">Hi 👋, I'm PinXuanHuang</h1>
 <h3 align="center">A junior developer</h3>
 
 - 👨‍💻 All of my projects are available at [my repo](https://github.com/PinxuanHuang?tab=repositories)
