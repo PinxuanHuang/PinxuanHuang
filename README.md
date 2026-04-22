@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gary84811@gmail.com**
 
-- 📄 Know about my experiences [my linkedin](https://www.linkedin.com/in/pinxuan-huang-a6673b186/)
+- 📄 Know about my experiences [my linkedin](https://www.linkedin.com/in/gary-huang-a6673b186/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
